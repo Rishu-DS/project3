@@ -2,7 +2,7 @@
 
 ## Looking at the India
 
->Clean the data so it shows the information about the United States and it's cities
+>Clean the data so it shows the information about the Indian and it's cities
 
 >Finding basic information about the AQI (mean, max, and min)
 
